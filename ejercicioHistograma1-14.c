@@ -13,6 +13,9 @@ int main(){
         vWords[i] = numWord;
     }
 
+
+    printf ("Hola, este es un cambio agregado\n");
+
     printf("Histograma\n");
 
     for (int i = 0; i < 5; ++i){
