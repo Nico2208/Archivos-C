@@ -14,7 +14,7 @@ int main(){
     }
 
 
-    printf ("Hola, este es un cambio\n");
+    printf ("Hola, este es un cambio nuevo\n");
     
 
     printf("Histograma\n");
