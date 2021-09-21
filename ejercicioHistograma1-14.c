@@ -15,7 +15,6 @@ int main(){
 
 
     printf ("Hola, este es un cambio nuevo\n");
-    printf ("Hola juan carlos\n");
     
 
     printf("Histograma\n");
